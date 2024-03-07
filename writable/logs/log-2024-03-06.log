@@ -1,0 +1,217 @@
+CRITICAL - 2024-03-06 13:54:45 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, array returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 13:55:48 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, array returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 13:56:17 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Api.php on line 9.
+ 1 APPPATH\Controllers\Api.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 13:56:23 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Api.php on line 9.
+ 1 APPPATH\Controllers\Api.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 13:57:17 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Api.php on line 9.
+ 1 APPPATH\Controllers\Api.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 13:57:31 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, array returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 13:59:39 --> ErrorException: Undefined property: App\Controllers\Api::$output
+in APPPATH\Controllers\Api.php on line 9.
+ 1 APPPATH\Controllers\Api.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Api::$output', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:00:18 --> ErrorException: Undefined property: App\Controllers\Api::$output
+in APPPATH\Controllers\Api.php on line 9.
+ 1 APPPATH\Controllers\Api.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Api::$output', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:04:38 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:05:05 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:05:12 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:05:16 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:08:34 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:08:38 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:08:42 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:09:02 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:10:02 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:10:16 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:11:01 --> Error: Call to undefined method App\Controllers\Api::response()
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:11:10 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:11:14 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:13:34 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type array, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:14:01 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:14:52 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:14:59 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, none returned
+in APPPATH\Controllers\Api.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:15:57 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:16:18 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:16:24 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:17:01 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:17:34 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type App\Controllers\json, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:18:17 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type App\Controllers\json, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:19:14 --> TypeError: App\Controllers\Api::prueba_api(): Return value must be of type string, CodeIgniter\HTTP\Response returned
+in APPPATH\Controllers\Api.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->prueba_api()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:52:24 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Config\Routes.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 14:56:36 --> ErrorException: Undefined property: App\Controllers\Api::$input
+in APPPATH\Controllers\Api.php on line 12.
+ 1 APPPATH\Controllers\Api.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Api::$input', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-06 15:06:58 --> ErrorException: Undefined property: App\Controllers\Api::$input
+in APPPATH\Controllers\Api.php on line 12.
+ 1 APPPATH\Controllers\Api.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Api::$input', 'C:\\wamp64\\www\\testGeopagos\\app\\Controllers\\Api.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Api->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
